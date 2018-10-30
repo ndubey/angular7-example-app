@@ -900,6 +900,8 @@ MIT
 
 @angular/material/dialog
 
+@ismaestro/ngx-scroll-to-first-invalid
+
 @angular/material/autocomplete
 
 @angular/material/menu
