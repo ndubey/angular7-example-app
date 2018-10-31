@@ -648,8 +648,6 @@ THE SOFTWARE.
 
 @angular/material/icon
 
-@angular/material/progress-bar
-
 @angular/flex-layout
 MIT
 <<<<<<< HEAD
@@ -905,6 +903,8 @@ MIT
 @angular/material/autocomplete
 
 @angular/material/menu
+
+@angular/material/progress-bar
 
 @angular/service-worker
 MIT
